@@ -3,4 +3,4 @@ Assignment repository for UNT CSCE1015
 ## EUID
 
 ## Favorite Professor
-$(YOUR_FAVORITE_PROFESSOR)
+$Dr. Smith
